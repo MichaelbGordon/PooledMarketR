@@ -13,9 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
-}
+
 
 # library(tidyverse)
 # pm_data <- read_rds('/Users/mbgordon/Dropbox/Michael_shared/pooled\ market/Final\ Data/Pooled_Market_Data_full_set.rds')
