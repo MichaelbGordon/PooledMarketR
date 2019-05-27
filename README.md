@@ -1,13 +1,3 @@
----
-title: "README"
-author: "Michael Gordon"
-date: "27/05/2019"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # PooledMarketR
 
 `PooledMarketR` is an R package built to provide the Pooled Market Dataset.
